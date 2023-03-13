@@ -1,5 +1,5 @@
 # This is practice code inspired in The Last Of Us
-# I did it for train the While Loop, also used some libraries like random and time
+# I did it to practice the While Loop, also used some libraries like random and time
 # Watch this running on CMD https://www.youtube.com/watch?v=BeDiHUhYXHs
 
 import random
