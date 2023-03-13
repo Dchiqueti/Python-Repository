@@ -1,6 +1,5 @@
-#!pip install selenium
-#!pip install webdriver-manager
-#!pip install html5lib
+# Web Scraping data from ETF
+# Watch the demonstration video: https://youtu.be/SVLeXOfJBVY
 
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
