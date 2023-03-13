@@ -1,4 +1,7 @@
-#List comprehension e comparações entre strings
+# Manipulating a List
+# In this code i focus in creating a empty list and manipulate it
+# Watch the demonstration video: https://www.youtube.com/watch?v=nEkkPd75voI
+
 
 from os import system
 import time
